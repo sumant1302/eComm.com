@@ -1,0 +1,15 @@
+1.Category
+    Multiple lEvel Category
+2. Banner
+3. Coupon Code
+    Percentage
+    Fix Price
+4.Product
+    Product attribute with color and size
+    Payment Gateway
+    COD
+5. COntact Us
+6. Product Review
+7. Setting
+
+Checkout and Guest Checkout
